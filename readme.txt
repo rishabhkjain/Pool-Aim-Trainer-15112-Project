@@ -16,4 +16,6 @@ Lastly, you can enjoy a game of pool with the computer. This is still in a beta 
 
 Hope you have fun!
 
+P.S. Here is a link to the demo video (https://www.youtube.com/watch?v=R-07YYrF3G4)
+
 - Rishabh Jain (rkjain)
